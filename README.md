@@ -1,12 +1,13 @@
 Conway's Game of Life
 ================
+![alt text](https://raw.githubusercontent.com/andrew644/gameOfLife/master/gameOfLife.gif)
 
 Controls:
 ---------
 
 | Action                    | Control     |
 | ------------------------- | ----------- |
-| Pause                     | P           |
+| Pause                     | p           |
 | Increase Simulation Speed | .           |
 | Decrease Simulation Speed | ,           |
 | Spawn Cell                | Left Click  |
