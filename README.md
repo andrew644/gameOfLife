@@ -1,8 +1,21 @@
-Conway's Game of Life
-================
+# Conway's Game of Life
+
+A simple implementaion of Conways's Game of Life using Nim.
+
+## Building
+
+You will need the SDL2 development libraries installed.
+You will also need Nim and Nimble installed.
+
+Then use Nimble to download the project dependencies.
+
+Build using the ```build.release.sh``` script.
+
+## Example Gameplay
+
 ![alt text](https://raw.githubusercontent.com/andrew644/gameOfLife/master/gameOfLife.gif)
 
-Controls:
+Controls
 ---------
 
 | Action                    | Control     |
