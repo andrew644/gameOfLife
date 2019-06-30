@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-A simple implementaion of Conways's Game of Life using Nim.
+A simple implementation of Conways's Game of Life using Nim.
 
 ## Building
 
